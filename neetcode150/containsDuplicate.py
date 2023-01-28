@@ -1,4 +1,4 @@
-# 217 - arrays & hashing #1
+# 217 - array and hashing
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
